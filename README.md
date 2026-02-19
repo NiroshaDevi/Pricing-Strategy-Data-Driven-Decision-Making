@@ -47,8 +47,6 @@ Advanced formula structuring with FILTER, TEXTJOIN
 
 Analytical reasoning for business metrics
 
-# [ks_ass 3_raw_dataset.xlsx](https://github.com/user-attachments/files/25415360/ks_ass.3_raw_dataset.xlsx)
-[FINAL PRICING STRATEGY REPORT.pdf](https://github.com/user-attachments/files/25415358/FINAL.PRICING.STRATEGY.REPORT.pdf)
 📦 Assignment 2 – Packaging Optimization
 
 This task simulated a real logistics scenario:
@@ -100,3 +98,6 @@ Business operations mindset
 Nirosha Balamurugan
 Aspiring Operations / Data Analyst
 Focused on analytics, process optimization, and data-driven decision making.
+
+# [ks_ass 3_raw_dataset.xlsx](https://github.com/user-attachments/files/25415360/ks_ass.3_raw_dataset.xlsx)
+[FINAL PRICING STRATEGY REPORT.pdf](https://github.com/user-attachments/files/25415358/FINAL.PRICING.STRATEGY.REPORT.pdf)
